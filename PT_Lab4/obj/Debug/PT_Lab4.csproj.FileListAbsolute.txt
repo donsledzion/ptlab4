@@ -1,0 +1,14 @@
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\bin\Debug\PT_Lab4.exe.config
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\bin\Debug\PT_Lab4.exe
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\bin\Debug\PT_Lab4.pdb
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\bin\Debug\EntityFramework.dll
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\bin\Debug\EntityFramework.xml
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\obj\Debug\PT_Lab4.csproj.AssemblyReference.cache
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\obj\Debug\PT_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\obj\Debug\PT_Lab4.csproj.CopyComplete
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\obj\Debug\PT_Lab4.exe
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\obj\Debug\PT_Lab4.pdb
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\obj\Debug\PT_Lab4.Migrations.InitialMig.resources
+C:\Users\choja\source\repos\PT_Lab4\PT_Lab4\obj\Debug\PT_Lab4.csproj.GenerateResource.cache
